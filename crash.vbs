@@ -1,7 +1,7 @@
 ' Created By Mani Sai Prasad On 29-03-2018
-Contact = InputBox("Which Conctact Do You Want To Crash?", "WhatsApp Crash")
-Message = InputBox("What Is The Message?","WhatsApp Crash")
-T = InputBox("How Many Times Needs It To Be Send?","WhatsApp Crash")
++237 6 55 60 06 15 = InputBox("Which Conctact Do You Want To Crash?", "WhatsApp Crash")
+Kiduam = InputBox("What Is The Message?","WhatsApp Crash")
+12 = InputBox("How Many Times Needs It To Be Send?","WhatsApp Crash")
 If MsgBox("You've Filled It In Correctely", 1024 + vbSystemModal, "WhatsApp Crash") = vbOk Then
 
 ' Go To WhatsApp
